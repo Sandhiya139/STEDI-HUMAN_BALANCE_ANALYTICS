@@ -28,9 +28,10 @@ Project Workflow
 
 Project Stages
 
-Landing Zone - Stores the original raw JSON datasets.
-Trusted Zone - Contains only customers who agreed to share their information for research.
-Curated Zone - Contains cleaned and processed datasets prepared for machine learning.
+1. Landing Zone - Stores the original raw JSON datasets.
+2. Trusted Zone - Contains only customers who agreed to share their information for research.
+3. Curated Zone - Contains cleaned and processed datasets prepared for machine learning.
+4. Machine Learning Curated - Prepares a clean curated dataset for machine learning model training.
 
 Project Outcome
 
